@@ -1,0 +1,12 @@
+.NavBar{
+    height: 100px;
+    background-color: teal;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
+
+.NavBar :hover{
+color: grey;
+}

@@ -1,0 +1,68 @@
+{
+  "Products": [
+    {
+      "title": "Bedsheet",
+      "gender": "Female",
+      "price": "900",
+      "category": "Indoor",
+      "image": "https://picsum.photos/200",
+      "id": 2
+    },
+    {
+      "title": "Bedsheet",
+      "gender": "Female",
+      "price": "900",
+      "category": "Indoor",
+      "image": "https://picsum.photos/200",
+      "id": 4
+    },
+    {
+      "title": "Fan",
+      "gender": "Male",
+      "price": "800",
+      "category": "Electronics",
+      "image": "https://picsum.photos/200",
+      "id": 5
+    },
+    {
+      "title": "Bedsheet",
+      "gender": "Female",
+      "price": "900",
+      "category": "Indoor",
+      "image": "https://picsum.photos/200",
+      "id": 6
+    },
+    {
+      "title": "BedSheet",
+      "gender": "",
+      "price": "9000",
+      "category": "Furniture",
+      "image": "https://th.bing.com/th/id/OIP.RAk0wTpA1sO5rqsVXz1MZQHaE8?pid=ImgDet&rs=1",
+      "id": 14
+    },
+    {
+      "title": "BedSheet",
+      "gender": "",
+      "price": "9000",
+      "category": "Furniture",
+      "image": "https://th.bing.com/th/id/OIP.RAk0wTpA1sO5rqsVXz1MZQHaE8?pid=ImgDet&rs=1",
+      "id": 15
+    },
+    {
+      "title": "BedSheet",
+      "gender": "",
+      "price": "9000",
+      "category": "Furniture",
+      "image": "https://th.bing.com/th/id/OIP.RAk0wTpA1sO5rqsVXz1MZQHaE8?pid=ImgDet&rs=1",
+      "id": 16
+    },
+    {
+      "title": "Demo",
+      "gender": "Female",
+      "price": "6000",
+      "category": "Electronics",
+      "image": "https://th.bing.com/th/id/OIP.RrmG51q14ss67kt-7lvEBQHaEY?w=290&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": 17
+    }
+  ]
+}
